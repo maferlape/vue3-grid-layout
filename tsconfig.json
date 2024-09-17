@@ -3,7 +3,6 @@
     "baseUrl": "./",
     "target": "ESNext",
     "useDefineForClassFields": true,
-    "ignoreDeprecations": "5.0",
     "module": "ESNext",
     "moduleResolution": "Node",
     "strict": true,
